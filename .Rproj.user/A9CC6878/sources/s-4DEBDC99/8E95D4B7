@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588087159209.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E95D4B7",
+    "lastKnownWriteTime" : 1588086327,
+    "last_content_update" : 1588086327,
+    "path" : "C:/Users/asus/profile/asd/content/post/2015-07-23-r-rmarkdown.Rmd",
+    "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
